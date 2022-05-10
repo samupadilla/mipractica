@@ -9,5 +9,6 @@ var ob2={
     apellido:'Lopez',
     edad:47
 }
+ob2.dni=123;
 console.log(ob2);
 
